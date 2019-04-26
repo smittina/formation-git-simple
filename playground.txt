@@ -2,3 +2,5 @@ formation git v7
 commit poussé après divergence
 nouvelle branche
 branche mergé
+
+ajout dans la branch 3
