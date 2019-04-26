@@ -1,2 +1,4 @@
-formation git v6
+formation git v7
 commit poussé après divergence
+nouvelle branche
+branche mergé
