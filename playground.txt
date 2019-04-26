@@ -1,1 +1,2 @@
-formation git v4 amend commit
+formation git v6
+commit poussé après divergence
