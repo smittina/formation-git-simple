@@ -2,6 +2,10 @@ joke 1:
 Qu'est ce qui est jaune et qui attend ?
 tes dents qui attendent d'être brossés.
 
+test de protection sur master
+
+C'est un gars, il rentre dans un café et plouf
+
 joke 2:
 comment appelle-t-on un ascenseur chinois?
 comme de partout, en appuyant sur le bouton
@@ -17,3 +21,6 @@ facilement. Juste ferme toutes les fenêtres, arrête la voiture et
 redémarre."
 
 test pour nettoyer la branche master de poloch0n
+
+joke 4: quel est le bar préféré des espagnoles?
+Le Bar celone
