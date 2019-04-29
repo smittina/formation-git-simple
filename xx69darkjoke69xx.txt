@@ -1,8 +1,6 @@
-﻿joke 1:
-Qu'estce qui est jaune et qui attend ?
+joke 1:
+Qu'est ce qui est jaune et qui attend ?
 tes dents qui attendent d'être brossés.
-
-test de protection sur master
 
 joke 2:
 comment appelle-t-on un ascenseur chinois?
