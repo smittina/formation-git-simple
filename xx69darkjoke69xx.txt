@@ -43,3 +43,5 @@ joke 8: C'est toto qui lance une boulette de papier sur la maitresse quand elle 
 Elle lui dit "Toto arrêtes !" mais il répond "C'était pas moi madame ! " ...
 ... et en fait c'était lui !!!
 
+joke 9: Tu connais la blague du pouce ? elle est comme ça !
+
