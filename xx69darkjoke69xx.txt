@@ -9,3 +9,12 @@ comment appelle-t-on un ascenseur chinois?
 comme de partout, en appuyant sur le bouton
 
 Marseille est null cette année !!!
+
+joke 3 :
+Un informaticien fait du convoiturage avec un autre gars.
+Au milleu de la voie la voiture s'arrête avec une fumée noire sortant du
+capot.
+L'informaticien dit alors au conducteur "c'est bon, je sais réparer ça
+facilement. Juste ferme toutes les fenêtres, arrête la voiture et
+redémarre."
+
