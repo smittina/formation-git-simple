@@ -23,4 +23,6 @@ redémarre."
 joke 4: quel est le bar préféré des espagnoles?
 Le Bar celone
 
-
+joke 5 : C'est toto qui lance une boulette de papier sur la maitresse quand elle est retournée.
+Elle lui dit "Toto arrêtes !" mais il répond "C'était pas moi madame ! " ...
+... et en fait c'était lui !!!
