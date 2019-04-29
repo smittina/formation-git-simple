@@ -43,5 +43,7 @@ joke 8: C'est toto qui lance une boulette de papier sur la maitresse quand elle 
 Elle lui dit "Toto arrêtes !" mais il répond "C'était pas moi madame ! " ...
 ... et en fait c'était lui !!!
 
+joke 9: Tu connais la blague du pouce ? elle est comme ça !
+
 joke 10: En soirée, lorsque vous avez bu un verre de trop et que vous sentez qu'il faut vous faire vomir,
 il existe une solution très simple. Mettez vous un doigt dans la bouche, et un doigt dans le cul. Et si ça ne marche pas, inversez.
