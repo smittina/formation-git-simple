@@ -15,3 +15,5 @@ capot.
 L'informaticien dit alors au conducteur "c'est bon, je sais réparer ça
 facilement. Juste ferme toutes les fenêtres, arrête la voiture et
 redémarre."
+
+test pour nettoyer la branche master de poloch0n
